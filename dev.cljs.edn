@@ -1,0 +1,10 @@
+{:main ui.core
+ :asset-path "js/compiled/out"
+ :output-to "resources/public/js/compiled/main.js"
+ :output-dir "resources/public/js/compiled/out"
+ :optimizations :none
+ :verbose false
+ :cache-analysis true
+ :parallel-build true
+ :source-map true
+ :source-map-timestamp true}
